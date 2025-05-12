@@ -137,6 +137,7 @@ Open your browser to `http://localhost:8050/`. Drag & drop or browse to load an 
 ## ✍️ Author
 
 * Aniruddha Prashant Deshpande [GitHub Profile](https://github.com/aniruddhapdeshpande99)
+* Jai Prasanna Joshi  [Github Profile](https://github.com/jaijoshi123)
 
 ---
 
