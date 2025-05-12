@@ -4,6 +4,14 @@ This readme serves as a manual for setting up the RelTR Scene Graph Generation m
 
 ---
 
+## 🏗️ System Architecture
+
+![System Architecture](./data/images/KGInPaint_Design.png)
+
+*Figure*: Overall system design illustrating the flow from image upload through scene graph generation, segmentation, and inpainting.
+
+---
+
 ## 🔍 Introduction
 
 Conventional image editing often requires laborious pixel-level work for complex modifications. KGInPaint addresses this by combining scene-graph generation with interactive inpainting, allowing users to semantically manipulate objects within an image through a simple dashboard interface.
@@ -14,7 +22,7 @@ Conventional image editing often requires laborious pixel-level work for complex
 
 Please click on the Video Thumbnail below to watch the demo for our KGInPaint Dashboard.
 
-[![KGInPaint Demo Video Link](./images/demo.png)](https://www.youtube.com/watch?v=tGeAod6Y3TA)
+[![KGInPaint Demo Video Link](./data/images/demo.png)](https://www.youtube.com/watch?v=tGeAod6Y3TA)
 
 ---
 
